@@ -7,3 +7,5 @@
 [HTML和CSS](https://github.com/xudoujiang/OpenMindWorld2017)
 
 [百度技术学院](http://ife.baidu.com/)
+
+[育儿相关的灵感触发器](https://github.com/PoemsWithKids/Plans-for-BP/wiki/Inspiration)
