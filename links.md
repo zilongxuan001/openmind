@@ -6,4 +6,4 @@
 
 [HTML和CSS](https://github.com/xudoujiang/OpenMindWorld2017)
 
-[百度技术学院]（http://ife.baidu.com/）
+[百度技术学院](http://ife.baidu.com/)
